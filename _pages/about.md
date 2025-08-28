@@ -25,8 +25,11 @@ announcements:
 **Hello · வணக்கம் · नमस्ते · ನಮಸ್ಕಾರ !**
 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Sanjay, a Research Associate at the [AI4Bhārat Lab](https://ai4bharat.iitm.ac.in/) in [IIT Madras](https://www.iitm.ac.in/), where I am fortunate to be advised by [Dr. Raj Dabre](https://prajdabre.github.io/), [Dr. Anoop Kunchukuttan](https://anoopkunchukuttan.github.io/), and [Dr. Mitesh M. Khapra](https://www.cse.iitm.ac.in/~miteshk/), while collaborating with an amazing team of international researchers.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **Multilingual Language Modeling** and **Machine Translation**, with a focus on **Indic languages**. I’m also exploring **Reinforcement Learning** and **Mechanistic Interpretability** within this domain. Previously, I was a Research Intern at AI4Bhārat, where I worked on building large-scale data infrastructure to create, curate, and clean Indic Language data for training LLMs. I speak English, Tamil, Hindi, and Kannada (being a polyglot naturally complements my work in multilingual NLP).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I’m a curious soul with wide-ranging interests ( <i>jack of all trades, master of none!</i> ). I’m passionate about Sports, Cars, and Cinema, and I love studying Mathematics, Computer Science, Astrophysics, Theoretical Physics, Economics, Spirituality, Philosophy, Psychology and yes, a decillion other things!
+
+I am actively seeking work and research opportunities where I can apply my skills to solve complex real-world problems. 
+I am also eager to collaborate with researchers and research groups, if you share similar interests or have collaborative ideas, please feel free to reach out to me via my Email, LinkedIn or X!
