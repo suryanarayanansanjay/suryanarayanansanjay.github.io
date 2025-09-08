@@ -29,7 +29,7 @@ I’m Sanjay, a Research Associate at the [AI4Bhārat Lab](https://ai4bharat.iit
 
 My research focuses on **Multilingual Language Modeling** and **Machine Translation**, with a focus on **Indic languages**. I’m also exploring **Reinforcement Learning** and **Mechanistic Interpretability** within this domain. Previously, I was a Research Intern at AI4Bhārat, where I worked on building large-scale data infrastructure to create, curate, and clean Indic Language data for training LLMs. I speak English, Tamil, Hindi, and Kannada (being a polyglot naturally complements my work in multilingual NLP).
 
-Beyond research, I’m a curious soul with wide-ranging interests ( <i>jack of all trades, master of none!</i> ). I’m passionate about Sports, Cars, and Cinema, and I love studying Mathematics, Computer Science, Astrophysics, Theoretical Physics, Economics, Spirituality, Philosophy, Psychology and yes, a decillion other things!
+Beyond research, I’m a curious soul with wide-ranging interests (jack of all trades, master of none! xD). I’m passionate about Sports, Cars, and Cinema, and I love studying Mathematics, Computer Science, Astrophysics, Theoretical Physics, Economics, Spirituality, Philosophy, Psychology and yes, a decillion other things!
 
 I am actively seeking work and research opportunities where I can apply my skills to solve complex real-world problems. 
 I am also eager to collaborate with researchers and research groups, if you share similar interests or have collaborative ideas, please feel free to reach out to me via my Email, LinkedIn or X!
