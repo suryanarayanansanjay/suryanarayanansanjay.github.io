@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with a B.Tech in Data Science and Engineering from [Manipal Institute of Technology](https://www.manipal.edu/mu.html).
+Graduated with a B.Tech in Data Science and Engineering from [Manipal Institute of Technology](https://www.manipal.edu/mu.html)!

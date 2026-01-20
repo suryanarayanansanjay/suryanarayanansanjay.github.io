@@ -6,7 +6,7 @@ subtitle: <b>Research Associate</b> @ <a href="https://ai4bharat.iitm.ac.in/" ta
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_hd.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>AI4Bhārat Lab</p>
@@ -22,12 +22,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-**Hello · வணக்கம் · नमस्ते · ನಮಸ್ಕಾರ !**
+**Hello · नमस्ते · வணக்கம் · ನಮಸ್ಕಾರ !**
 
 
-I’m Sanjay, a Research Associate at the [AI4Bhārat Lab](https://ai4bharat.iitm.ac.in/) in [IIT Madras](https://www.iitm.ac.in/), where I am fortunate to be advised by [Dr. Raj Dabre](https://prajdabre.github.io/), [Dr. Anoop Kunchukuttan](https://anoopkunchukuttan.github.io/), and [Dr. Mitesh M. Khapra](https://www.cse.iitm.ac.in/~miteshk/), while collaborating with an amazing team of international researchers.
+I’m Sanjay, a Research Associate at the [AI4Bhārat Lab](https://ai4bharat.iitm.ac.in/) in [IIT Madras](https://www.iitm.ac.in/), where I am advised by [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), [Dr. Raj Dabre](https://prajdabre.github.io/) and [Dr. Anoop Kunchukuttan](https://anoopkunchukuttan.github.io/).
 
-My current research focuses on two major domains: (1) **Machine Translation**, and (2) **Multilingual and Multimodal Language Modeling**. Additionally, I am exploring **Mechanistic Interpretability** and **Reinforcement Learning** as complementary directions within these domains. Previously, I was a Research Intern at AI4Bhārat, where I worked on building large-scale data infrastructure to create, curate, and clean Indic Language data for training LLMs. I am fluent in English, Tamil, Hindi, and Kannada, and I can also understand Malayalam, Telugu, Bengali, and Marathi (Being a polyglot naturally complements my work in multilingual NLP).
+My current research focuses on two major domains: (1) **Machine Translation**, and (2) **Multilingual and Multimodal Language Modeling**. Additionally, I am exploring **Mechanistic Interpretability** and **Reinforcement Learning** as complementary directions within these domains. Previously, I was a Research Intern at AI4Bhārat, where I worked on building large-scale data infrastructure to create, curate, and clean Indic Language data for training LLMs. I am fluent in English, Hindi, Tamil, and Kannada (Being a polyglot naturally complements my work in multilingual NLP) !
 
 Beyond research, I’m a curious soul with wide-ranging interests ([jack of all trades, master of some](/assets/img/meme.jpg)). I’m passionate about Sports, Cars, Cinema, Music, and I love studying Mathematics, Computer Science, Physics, Economics, Spirituality, Philosophy, Psychology and yes, a decillion other things!
 
