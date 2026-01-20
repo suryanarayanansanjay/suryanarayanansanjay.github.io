@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -362,13 +369,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-starting-my-research-career-as-a-research-intern-at-the-ai4bhārat-lab-in-iit-madras-under-the-guidance-of-dr-raj-dabre-dr-anoop-kunchukuttan-and-dr-mitesh-khapra",
-          title: 'Starting my research career as a Research Intern at the AI4Bhārat Lab in...',
+            },},{id: "news-starting-my-career-in-research-as-a-research-intern-at-the-ai4bhārat-lab-in-iit-madras-under-the-guidance-of-dr-mitesh-khapra-dr-raj-dabre-and-dr-anoop-kunchukuttan",
+          title: 'Starting my career in research as a Research Intern at the AI4Bhārat Lab...',
           description: "",
           section: "News",},{id: "news-graduated-with-a-b-tech-in-data-science-and-engineering-from-manipal-institute-of-technology",
           title: 'Graduated with a B.Tech in Data Science and Engineering from Manipal Institute of...',
           description: "",
-          section: "News",},{id: "news-continuing-full-time-as-a-research-associate-at-the-ai4bhārat-lab-in-iit-madras-working-with-dr-raj-dabre-dr-anoop-kunchukuttan-and-dr-mitesh-khapra-on-exciting-new-projects",
+          section: "News",},{id: "news-continuing-full-time-as-a-research-associate-at-the-ai4bhārat-lab-in-iit-madras-working-with-dr-mitesh-khapra-dr-raj-dabre-and-dr-anoop-kunchukuttan-on-exciting-new-projects",
           title: 'Continuing full-time as a Research Associate at the AI4Bhārat Lab in IIT Madras,...',
           description: "",
           section: "News",},{id: "news-honoured-to-host-dr-yann-lecun-at-ai4bhārat-iit-madras-his-visit-was-truly-inspiring-with-insightful-discussions-on-our-open-source-efforts-to-advance-ai-for-india",
@@ -382,6 +389,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-happy-to-share-that-our-work-pralekha-cross-lingual-document-alignment-for-indic-languages-has-been-accepted-to-the-main-conference-of-aacl-2025",
           title: 'Happy to share that our work “Pralekha: Cross Lingual Document Alignment for Indic...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-attending-aacl-2025-at-iit-bombay-india-from-dec-20-to-24-and-will-be-presenting-our-poster-on-dec-21-from-4-00-pm-to-5-30-pm-at-vmcc-session-mc-pp4-multilingual-nlp-and-machine-translation-feel-free-to-drop-by-to-chat-and-learn-more-about-our-work-resources-are-available-here",
+          title: 'I will be attending AACL 2025 at IIT Bombay, India, from Dec 20...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
