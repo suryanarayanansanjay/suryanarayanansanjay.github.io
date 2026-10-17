@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Graduate Student</b> @ <a href="https://www.washington.edu/" target="_blank">University of Washington</a>)
+subtitle: <b>Graduate Student</b> @ <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
 
 profile:
   align: right
