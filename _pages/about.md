@@ -33,6 +33,6 @@ I speak English, Hindi, Tamil, and Kannada (my brain code-switches more often th
 
 Beyond CS research, I’m a [curious soul with wide-ranging interests](/assets/img/meme.jpg). I’m passionate about sports, cars, cinema, and music, and enjoy studying mathematics, physics, economics, neuroscience, philosophy, spirituality, and yes, a decillion other things!
 
-I'm always up for interesting research problems, ambitious ideas, and collaborations with people who are excited about building things that matter. I'm also open to academia and industry research opportunities.
+I'm always up for interesting research problems, ambitious ideas, and collaborations with people who are excited about building things that matter. I’m also actively seeking research and professional opportunities in both academia and industry.
 
 If any of this sounds like your kind of thing, feel free to reach out via [email](mailto:suryanarayanansanjay@gmail.com), [LinkedIn](https://www.linkedin.com/in/suryanarayanansanjay/), or [X](https://x.com/sanjaysury_). I'm always happy to talk research, exchange ideas, or go down an entirely unrelated intellectual rabbit hole!
