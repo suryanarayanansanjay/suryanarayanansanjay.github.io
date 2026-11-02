@@ -29,8 +29,6 @@ My current research focuses on **Multilingual and Multimodal Language Modeling**
 
 Previously, I was a Research Associate at the [AI4Bhārat Lab](https://ai4bharat.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in/), where I spent nearly three years researching multilingual and multimodal language modeling and building state-of-the-art neural machine translation (NMT), automatic speech recognition (ASR), and text-to-speech (TTS) models for Indic languages. I had the privilege of working under the guidance of [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), [Dr. Raj Dabre](https://prajdabre.github.io/), [Dr. Anoop Kunchukuttan](https://anoopkunchukuttan.github.io/) and [Dr.Rudra Murthy](https://murthyrudra.github.io/).
 
-Beyond CS research, I’m a curious soul with wide-ranging interests. I’m passionate about sports, cars, cinema, and music, and enjoy studying mathematics, physics, economics, neuroscience, philosophy, spirituality, and yes, a decillion other things!
+I'm always excited by interesting research problems, ambitious ideas, and collaborations with people who are passionate about building things that matter. I'm actively exploring research and professional opportunities across academia and industry.
 
-I'm always up for interesting research problems, ambitious ideas, and collaborations with people who are excited about building things that matter. I’m also actively seeking research and professional opportunities in both academia and industry.
-
-If any of this sounds like your kind of thing, feel free to reach out via [email](mailto:suryanarayanansanjay@gmail.com), [LinkedIn](https://www.linkedin.com/in/suryanarayanansanjay/), or [X](https://x.com/sanjaysury_). I'm always happy to talk research, exchange ideas, or go down an entirely unrelated intellectual rabbit hole!
+Feel free to reach out via [email](mailto:suryanarayanansanjay@gmail.com), [LinkedIn](https://www.linkedin.com/in/suryanarayanansanjay/), or [X](https://x.com/sanjaysury_). I'm always happy to discuss research, exchange ideas, or dive into an entirely unrelated intellectual rabbit hole!
